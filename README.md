@@ -11,7 +11,8 @@
   - RStudio
 
 - **🛠️ 3D Design**:  
-  - Proficient in SketchUp  
+  - Proficient in SketchUp, Fusion 360 and learning SolidWorks
+  - Usage of slicers such as Orca Slicer and Cura Slicer  
   - Experienced in 3D printing for creating physical prototypes
 
 - **Spoken Languages**:  
